@@ -1,1 +1,16 @@
-Hello World!
+---
+layout: default
+---
+
+{% for post in site.posts %}
+<div class="row">
+  <div class="col-md-8 col-md-offset-1">
+    <div class="page-header">
+        <h3>{{ post.title }} <small>{{ post.date | date: "%b %-d, %Y" }}{% if post.meta %} • {{ post.meta }}{% endif %}</small></h3>
+      </div>
+    <div class="container-fluid">
+      {{ post.content }}
+    </div>
+  </div>
+</div>
+{% endfor %}

@@ -1,0 +1,11 @@
+# Site settings
+title: Rasky Co
+email: jerome@rasky.co
+description: "Software developer"
+baseurl: ""
+url: "https://www.rasky.co"
+github_username:  jrasky
+
+# Build settings
+markdown: kramdown
+permalink: pretty
