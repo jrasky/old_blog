@@ -5,6 +5,7 @@ description: "Software developer"
 baseurl: ""
 url: "https://www.rasky.co"
 github_username:  jrasky
+plus_page: "https://plus.google.com/+JeromeRaskyMan"
 
 # Build settings
 markdown: kramdown
