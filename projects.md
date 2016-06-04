@@ -27,7 +27,7 @@ permalink: /projects/
     <div class="container-fluid">
       Wash, or the whatever shell, is a project that I worked on mainly to learn how to make effective UIs in terminal, and to learn how to use Linux kernel APIs to manage processes and the like.<br>
       <br>
-      I also used this project to learn Rust to a certain degree. It's one of my larger project, totaling to about 8000 lines. I also learned to write a simple compiler to bytecode for a simple scripting language.
+      I also used this project to learn Rust to a certain degree. It's one of my larger projects, totaling to about 8000 lines. I also learned to write a simple compiler to bytecode for a simple scripting language.
     </div>
   </div>
 </div>
